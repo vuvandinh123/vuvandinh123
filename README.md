@@ -19,9 +19,9 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoakhiem&layout=compact&theme=tokyonight&langs_count=6" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoakhiem&show_icons=true&theme=tokyonight" height="165">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=hoakhiem&show_icons=true&theme=tokyonight" height="165"> -->
 </p>
 
 ### 🌐️ Reach me at
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoakhiem)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/codey2k1/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vuvandinh123)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100040615716486)
