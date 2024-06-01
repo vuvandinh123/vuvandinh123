@@ -36,14 +36,19 @@ I am passionate about end-to-end development to create user-friendly websites. W
 You can visit my little corner at <https://vuvandinh.id.vn/>
 
 ****
+
+<a href="https://github.com/vuvandinh123">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vuvandinh123&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=vuvandinh123&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">
+    </picture>
+</a>
+
 <a href="https://github.com/vuvandinh123">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vuvandinh123&hide_border=true&theme=dark&background=0e1116">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vuvandinh123&hide_border=true">
+        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true">
     </picture>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vuvandinh123&layout=compact&langs_count=8&card_width=420&background=0e1116" />
 </a>
 
 <a href="https://github.com/vuvandinh123">
