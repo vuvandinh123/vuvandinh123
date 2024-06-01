@@ -94,7 +94,7 @@ You can visit my little corner at <https://vuvandinh.id.vn/>
 ### 📈 my github stats
 
 <div align="center">
-    <a href="https://www.devmirza.ml">
+    <a href="https://github.com/vuvandinh123">
         <img src="https://github.com/Zaid-maker/Zaid-maker/blob/output/github-snake-dark.svg" alt="snake" />
     </a>
 </div>
