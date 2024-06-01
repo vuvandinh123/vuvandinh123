@@ -34,6 +34,14 @@ Hi, I'm Vu Dinh, Full-stack,Ho Chi Minh city.
 I am passionate about end-to-end development to create user-friendly websites. With 1 year of experience working with HTML/CSS, JavaScript, ReactJS, ExpressJS and Laravel. I have developed strong capabilities in these technologies. I pride myself on my ability to quickly learn new skills, work effectively in teams, and communicate well.
 
 You can visit my little corner at <https://vuvandinh.id.vn/>.
+📊 **this week i spent my time on:**
+```txt
+JavaScript   10 hrs 5 mins   ████████████████▓░░░░░░░░   67.23 %
+PHP          5 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
+CSS          1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+TOML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -62,3 +70,8 @@ You can visit my little corner at <https://vuvandinh.id.vn/>.
     <img src="./images/project3.jpeg" alt="Vietnamese Lunar Calendar">
   </a>
 </p>
+
+
+### 📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
