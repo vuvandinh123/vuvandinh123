@@ -46,7 +46,7 @@ You can visit my little corner at <https://vuvandinh.id.vn/>
 <a href="https://github.com/vuvandinh123">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true&theme=dark&background=0e1116">
-        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vuvandinh123&hide_border=true">
+        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vuvandinh123&hide_border=true">
     </picture>
 </a>
 
