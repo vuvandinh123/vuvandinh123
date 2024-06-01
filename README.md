@@ -7,7 +7,7 @@
     <img src="images/logo.jpg"  alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">Vu Van Dinh</h1>
+  <h1 align="center"> Vu Van Dinh</h1>
 
   <p align="center">
    Fullstack developer
@@ -27,7 +27,7 @@
   </p>
 </div>
 
-## About Me
+## <img width="25" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/waving.gif"> About Me
 
 Hi, I'm Vu Dinh, Full-stack,Ho Chi Minh city.
 
@@ -35,38 +35,28 @@ I am passionate about end-to-end development to create user-friendly websites. W
 
 You can visit my little corner at <https://vuvandinh.id.vn/>
 
-📊 **this week i spent my time on:**
-```txt
-JavaScript   10 hrs 5 mins   ████████████████▓░░░░░░░░   67.23 %
-PHP          5 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
-CSS          1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-TOML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-```
 ****
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/jgphilpott/github-readme-stats">
+<a href="https://github.com/vuvandinh123">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jgphilpott&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vuvandinh123&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=vuvandinh123&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">
-    </picture>
+    </picture> 
 </a>
 
-<a href="https://github.com/jgphilpott/github-readme-streak-stats">
+<a href="https://github.com/vuvandinh123">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true&theme=dark&background=0e1116">
         <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vuvandinh123&hide_border=true">
     </picture>
 </a>
 
-<a href="https://github.com/jgphilpott/github-readme-activity-graph">
+<a href="https://github.com/vuvandinh123">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jgphilpott&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vuvandinh123&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vuvandinh123&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
     </picture>
 </a>
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 ## My Projects
 
@@ -97,4 +87,8 @@ TOML         7 mins          ▒░░░░░░░░░░░░░░░░
 
 ### 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vuvandinh123&show_icons=true&theme=gotham" alt="vuvandinh123" />
+<div align="center">
+    <a href="https://www.devmirza.ml">
+        <img src="https://github.com/Zaid-maker/Zaid-maker/blob/output/github-snake-dark.svg" alt="snake" />
+    </a>
+</div>
