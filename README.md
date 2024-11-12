@@ -38,13 +38,13 @@ You can visit my little corner at <https://vuvandinh.id.vn/>
 ****
 
 ### 🍉 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=nodejs,php,react,next,express,tailwindcss,redux,bootstrap,html,css,js,jquery,ts,less,scss,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,react,next,express,tailwindcss,redux,bootstrap,html,css,js,jquery,ts,scss,electron)](https://vuvandinh.id.vn)
 
 ### 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=mysql,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,githubactions,figma,aws,gcp,cloudflare,vercel,netlify,heroku,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,githubactions,figma,aws,gcp,cloudflare,vercel,netlify,heroku,vscode,gitlab)](https://vuvandinh.id.vn)
 
 ### 🍏 Contribution
-[![zmh-program's GitHub | Stats](https://stats.quira.sh/zmh-program/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=vuvandinh123)
+[![vuvandinh123's GitHub | Stats](https://stats.quira.sh/zmh-program/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=vuvandinh123)
 
 ### 🙌 Relation Ship
 
