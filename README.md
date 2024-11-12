@@ -44,11 +44,12 @@ You can visit my little corner at <https://vuvandinh.id.vn/>
 [![My Skills](https://skillicons.dev/icons?i=mysql,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,githubactions,figma,aws,gcp,cloudflare,vercel,netlify,heroku,vscode,gitlab)](https://vuvandinh.id.vn)
 
 ### 🍏 Contribution
-[![vuvandinh123's GitHub | Stats](https://stats.quira.sh/zmh-program/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=vuvandinh123)
+
+- [Fullstack](https://aviatek.com.vn/) (AVIATEK)
 
 ### 🙌 Relation Ship
 
-- [Hjn4Pwn]([https://github.com/Sh1n3zZ](https://github.com/Hjn4Pwn)) (Friend)
+- [Hjn4Pwn](https://github.com/Hjn4Pwn) (Friend)
 - [hodienloi1981](https://github.com/evansnguyen0104) (Boss)
 - [hodienloi1981](https://github.com/hodienloi1981) (Teacher)
 
