@@ -37,6 +37,21 @@ You can visit my little corner at <https://vuvandinh.id.vn/>
 
 ****
 
+### 🍉 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,react,next,express,tailwindcss,redux,bootstrap,html,css,js,jquery,ts,less,scss,electron)](https://skillicons.dev)
+
+### 🔨 Tools I Use
+[![My Skills](https://skillicons.dev/icons?i=mysql,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,githubactions,figma,aws,gcp,cloudflare,vercel,netlify,heroku,vscode)](https://skillicons.dev)
+
+### 🍏 Contribution
+[![zmh-program's GitHub | Stats](https://stats.quira.sh/zmh-program/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=vuvandinh123)
+
+### 🙌 Relation Ship
+
+- [Hjn4Pwn]([https://github.com/Sh1n3zZ](https://github.com/Hjn4Pwn)) (Friend)
+- [hodienloi1981](https://github.com/evansnguyen0104) (Boss)
+- [hodienloi1981](https://github.com/hodienloi1981) (Teacher)
+
 <a href="https://github.com/vuvandinh123">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vuvandinh123&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
