@@ -50,7 +50,7 @@ You can visit my little corner at <https://vuvandinh.id.vn/>
 ### 🙌 Relation Ship
 
 - [Hjn4Pwn](https://github.com/Hjn4Pwn) (Friend)
-- [hodienloi1981](https://github.com/evansnguyen0104) (Boss)
+- [evansnguyen0104](https://github.com/evansnguyen0104) (Boss)
 - [hodienloi1981](https://github.com/hodienloi1981) (Teacher)
 
 <a href="https://github.com/vuvandinh123">
