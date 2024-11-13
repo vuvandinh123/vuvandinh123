@@ -41,7 +41,7 @@ You can visit my little corner at 🌐 <https://vuvandinh.id.vn>
 ## 🛠 Skills
 🥪 **Front End** / 🥗 **Backend** / 🍊 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,wordpress,react,next,express,tailwindcss,redux,bootstrap,html,css,js,jquery,ts,scss,electron)](https://vuvandinh.id.vn)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,next,express,tailwindcss,redux,bootstrap,php,laravel,wordpress,html,css,js,jquery,ts,scss,electron,mysql,mongodb,redis)](https://vuvandinh.id.vn)
 
 ## 🔥 Achievement
 
@@ -49,7 +49,7 @@ You can visit my little corner at 🌐 <https://vuvandinh.id.vn>
 - 🏅 Top 7 in the Ho Chi Minh City Excellent Student Web Design Competition 2023
 
 ## 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=mysql,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,githubactions,figma,aws,gcp,cloudflare,vercel,netlify,heroku,vscode,gitlab)](https://vuvandinh.id.vn)
+[![My Skills](https://skillicons.dev/icons?i=mysql,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,githubactions,figma,aws,cloudflare,vercel,heroku,vscode,gitlab)](https://vuvandinh.id.vn)
 
 ## ️🎯 Contribution
 
