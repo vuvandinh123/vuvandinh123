@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/vuvandinh123">
-    <img src="images/logo2.jpg"  alt="Logo" width="80" height="80">
+    <img src="images/logo2.jpeg"  alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">🇻🇳 Vu Van Dinh 🇻🇳</h1>
